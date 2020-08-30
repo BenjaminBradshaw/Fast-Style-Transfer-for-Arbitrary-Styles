@@ -10,3 +10,15 @@ and the publication:
     
 ### Description:
 This notebook uses imageio to feed frames from videos or images from an image sequence into a Fast Style Transfer for Arbitrary Styles model and write the results to a frame in a new video.
+
+### example of results 
+
+https://www.instagram.com/p/CEVx4UJhBlS/?utm_source=ig_web_copy_link
+
+https://www.instagram.com/p/CEdVBdQBTks/?utm_source=ig_web_copy_link
+
+https://www.instagram.com/p/CEcwkh8hiFv/?utm_source=ig_web_copy_link
+
+https://www.instagram.com/p/CEWaEqLBKdF/?utm_source=ig_web_copy_link
+
+https://www.instagram.com/p/CEWD0gGBMoP/?utm_source=ig_web_copy_link
